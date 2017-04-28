@@ -1,0 +1,105 @@
+#content {
+  height: 1000px;
+  width: 1200px;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+
+#text1 {
+  height: 40px;
+  width: 530px;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#text2 {
+  height: 25px;
+  width: 350px;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -10px;
+}
+
+h2 {
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #a6a6a6;
+  }
+
+h3 {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #a6a6a6;
+  }
+
+.titel {
+  height: 100px;
+  width: 235px;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 80px;
+}
+
+#anmeldefenster {
+  height: 350px;
+  width: 350px;
+  background-color: #E0DEDE;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  box-shadow:1px 1px 6px #a0a0a0;
+  }
+
+img {
+height: 150px;
+width: 150px;
+margin-left: 100px;
+margin-right: auto;
+margin-top: 20px;
+}
+
+
+p1 {
+margin-left: 101px;
+}
+
+p2 {
+margin-left: 143px;
+}
+
+#eins a { text-decoration: none; /* Unterstreichung entfernen */
+margin-left: 250px;
+}
+
+
+#zwei a { text-decoration: none; /* Unterstreichung entfernen */
+margin-left: 130px;
+}
+
+#drei {
+height: 250px;
+width: 500px;
+background-color: white;
+}
+
+
+
+#drei img {
+    width: 200px;
+    height: 150px;
+    margin-left: 80px;
+}
+
+p3 {
+font-size: 20px; bold
+font-family: Arial, Helvetica, sans-serif;
+color: #a6a6a6
+}
+
+
+
