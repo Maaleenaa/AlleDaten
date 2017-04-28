@@ -1,7 +1,7 @@
 # initialize
 newList = []
 print newList
-print
+print         #oder print list()
 
 # append single elements - neue Elemente dazuhänge oder +=
 newList.append('Banana')
